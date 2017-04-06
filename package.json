@@ -1,0 +1,25 @@
+{
+  "name": "traffic-light",
+  "version": "1.0.0",
+  "description": "Traffic light simulation",
+  "main": "index.js",
+  "scripts": {
+    "fix-lint": "eslint --fix .",
+    "lint": "eslint .",
+    "test": "npm run lint && nyc mocha --timeout=3000",
+    "start": "node ."
+  },
+  "author": "Farid Nouri Neshat <FaridN_SOAD@Yahoo.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^3.19.0",
+    "mocha": "^3.2.0",
+    "nyc": "^10.2.0",
+    "sinon": "^2.1.0"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "sec-to-min": "^1.0.1"
+  }
+}
