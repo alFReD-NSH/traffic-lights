@@ -38,7 +38,7 @@ Run `npm test`.
 
 ## Why
 
-This project was written to show off what I can in a few hours.
+This project was written to show off what I can do in a few hours.
 
 ## Tell me a little bit more
 
