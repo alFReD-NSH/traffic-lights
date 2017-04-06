@@ -1,5 +1,7 @@
 # Intersection Traffic Light Simulation
 
+[![Build Status](https://travis-ci.org/alFReD-NSH/traffic-lights.svg?branch=master)](https://travis-ci.org/alFReD-NSH/traffic-lights)
+
 We have a simple intersection with two lanes, north-south and east-west. The lights should change
  from red to green every 5 minutes and should show the yellow light for 30 seconds.
 
